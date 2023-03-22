@@ -1,4 +1,4 @@
-token = '6015889831:AAG3RwEJHoJHoe4YkncpujhgCFc3TAsTEpA'
+token = 'Bot Tokeningiz'
 from aiogram import Bot,Dispatcher,types
 from aiogram.utils import executor
 from translator import tarjimon
