@@ -1,4 +1,4 @@
-token = '6161923075:AAEBQlB1staWYUrkQg_mvTB-QGBxJKxdhDM'
+token = 'Sizning tokeningiz'
 from aiogram import types,Dispatcher,Bot
 from aiogram.utils import  executor
 from keyboards import buttons
